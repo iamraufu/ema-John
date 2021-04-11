@@ -4,7 +4,7 @@
     "description": "Amazon clone App - Server Side",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "node server/index.js",
         "start:dev": "nodemon index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },

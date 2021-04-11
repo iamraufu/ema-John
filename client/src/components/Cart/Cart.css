@@ -1,0 +1,13 @@
+.cart-summary {
+    margin: 20px;
+}
+
+h3,
+h4,
+p {
+    text-align: center;
+}
+
+.order-total {
+    color: brown;
+}
